@@ -1,0 +1,7 @@
+340
+
+Frobenius Error for SVD:
+28733.5078339
+
+Frobenius Error for CUR:
+473.13496589

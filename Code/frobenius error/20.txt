@@ -1,0 +1,7 @@
+420
+
+Frobenius Error for SVD:
+43803.5961736
+
+Frobenius Error for CUR:
+525.538335622

@@ -1,0 +1,7 @@
+190
+
+Frobenius Error for SVD:
+8974.97478673
+
+Frobenius Error for CUR:
+399.227368387

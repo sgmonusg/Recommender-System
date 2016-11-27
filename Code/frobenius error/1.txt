@@ -1,0 +1,8 @@
+5
+5
+
+Frobenius Error for SVD:
+7.14392325292
+
+Frobenius Error for CUR:
+5.18164777489

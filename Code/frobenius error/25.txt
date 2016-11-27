@@ -1,0 +1,7 @@
+500
+
+Frobenius Error for SVD:
+62140.1131216
+
+Frobenius Error for CUR:
+975.064793117

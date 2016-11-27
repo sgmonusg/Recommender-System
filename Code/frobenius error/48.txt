@@ -1,0 +1,7 @@
+960
+
+Frobenius Error for SVD:
+229675.949208
+
+Frobenius Error for CUR:
+2392.70489697

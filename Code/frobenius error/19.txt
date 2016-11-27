@@ -1,0 +1,7 @@
+400
+
+Frobenius Error for SVD:
+39700.0841411
+
+Frobenius Error for CUR:
+968.846554177

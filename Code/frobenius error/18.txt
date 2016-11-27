@@ -1,0 +1,7 @@
+390
+
+Frobenius Error for SVD:
+37760.8110038
+
+Frobenius Error for CUR:
+548.412892209

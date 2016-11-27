@@ -1,0 +1,7 @@
+800
+
+Frobenius Error for SVD:
+159851.732846
+
+Frobenius Error for CUR:
+2108.36422521

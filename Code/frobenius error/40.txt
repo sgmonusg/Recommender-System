@@ -1,0 +1,7 @@
+820
+
+Frobenius Error for SVD:
+168721.124767
+
+Frobenius Error for CUR:
+1646.83830426

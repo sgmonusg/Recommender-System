@@ -1,0 +1,7 @@
+370
+
+Frobenius Error for SVD:
+34098.0520399
+
+Frobenius Error for CUR:
+663.726467785

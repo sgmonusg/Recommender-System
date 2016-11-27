@@ -1,0 +1,7 @@
+880
+
+Frobenius Error for SVD:
+193939.711791
+
+Frobenius Error for CUR:
+2301.99552136
